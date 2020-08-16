@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import random
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
+import tensorflow as tf
 
 
 # dir="/home/nuc-obs-01/Downloads/personal/ML/image"
